@@ -18,7 +18,7 @@ python model.py
 
 ## Dependencies
 
-Python
+Python 2
 
 Keras
 
