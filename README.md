@@ -11,5 +11,7 @@ The "train" folder contains 2 sub folders - "car" and "bicycle". Each of these f
 ## Dependencies
 
 Python
+
 Keras
+
 Numpy
